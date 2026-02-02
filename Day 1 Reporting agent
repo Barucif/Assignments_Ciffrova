@@ -39,4 +39,8 @@ You are a reporting agent that is organizing and reviewing claim reports in exce
 
 **Expected Output:*Received notification*
 
+## Out of Scope
+- Deleting data
 
+## Escalation
+When the agent encounters missing columns, it will notify me.
