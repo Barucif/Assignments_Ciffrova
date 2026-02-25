@@ -1,14 +1,13 @@
-1) Stakeholder analysis (from your role)
+## 1) Stakeholder analysis (from data analyst role)
 
-You (AI-DA Mentor role: Data Analyst, responsible for translating business problems into data-driven scope and governance requirements).
-Hans Muller (CIO): Sponsor; wants cost reduction, platform unification, and compliance readiness by Aug 2026; risk-averse; on-prem constraint.
-Stefan Weber (CISO): Security governance; skeptical of unvetted AI; needs policy enforcement, auditability, data sovereignty.
-Katarina Novak (IT Ops Director): Gatekeeper for architecture; practical constraints on deployment, SLAs, interoperability.
-Jan Kovar (Helpdesk Lead): Frontline stakeholder; fears replacement; change-management focal point.
-Shadow AI/tools owners (HR chatbot, Claims LangChain, Finance PoC): Non-governed pockets that threaten risk/gaps.
-External: Board, compliance, and EU AI Act timeline.
+Hans Muller (CIO, sponsor) wants cost reduction, platform unification, and compliance readiness by Aug 2026; risk-averse; on-prem constraint.
+Stefan Weber (CISO, Security governance) needs policy enforcement, auditability, data security.
+Katarina Novak (IT Ops Director) wants practical constraints on deployment, SLAs, interoperability.
+Jan Kovar (Helpdesk Lead) fears replacement; change-management focal point.
+Shadow AI/tools owners (HR chatbot, Claims LangChain, Finance PoC) are non-governed pockets that threaten risk/gaps.
+External parties are board, compliance, and EU AI Act timeline.
 
-2) Key findings and implications for your workstream
+## 2) Key findings and implications for your workstream
 
 Finding A: Platform unification is non-negotiable; governance and policy enforcement must be baked in.
 
