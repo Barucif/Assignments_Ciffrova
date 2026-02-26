@@ -9,19 +9,19 @@ External parties are board, compliance, and EU AI Act timeline.
 
 ## 2) Key findings and implications
 
-# Finding A: AI agents are not unified and do not collaborate together.
+### Finding A: AI agents are not unified and do not collaborate together.
 
 Implication: Include a Policy-as-Code layer (PDP/PEP), audit trails, and a single LLM gateway with controlled adapters.
 
-# Finding B: No cloud usage.
+### Finding B: No cloud usage.
 
 Implication: Design plan for internal data stores; no reliance on public cloud fallbacks.
 
-# Finding C: Knowledge base is outdated and no one is responsible for keeping it up to date.
+### Finding C: Knowledge base is outdated and no one is responsible for keeping it up to date.
 
 Implication: Include knowledge-management plan, knowledge-base refresh, lifecycle ownership, and automatic drift monitoring.
 
-# Finding D: Shadow AI exists and is ungoverned; regulatory risk if left untracked.
+### Finding D: Shadow AI exists and is ungoverned; regulatory risk if left untracked.
 
 Implication: Establish discovery and policy enforcement for shadow tools; plan for risk scoring, inventory, and remediation pathways.
 
