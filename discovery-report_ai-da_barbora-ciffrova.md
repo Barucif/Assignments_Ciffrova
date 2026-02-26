@@ -1,7 +1,9 @@
-Discovery Packet v1 — [AI Data Analyst]
-Student: [Barbora Ciffrova]
-Date: February 23, 2026
-Client: EuroHealth Insurance AG
+# Discovery Report — AI Data Analyst
+## Student: Barbora Ciffrova
+## Date: February 26, 2026
+## Client: EuroHealth Insurance AG
+
+---
 
 ## 1) Stakeholder analysis (from data analyst role)
 
