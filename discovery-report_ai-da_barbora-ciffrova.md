@@ -5,7 +5,7 @@
 
 ---
 
-## 1) Stakeholder analysis (from data analyst role)
+## 1) Stakeholder analysis
 
 Hans Muller (CIO, sponsor) wants cost reduction, platform unification, and compliance readiness by Aug 2026.
 Stefan Weber (CISO, Security governance) needs policy enforcement, auditability, and data security.
