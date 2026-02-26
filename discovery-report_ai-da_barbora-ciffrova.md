@@ -1,3 +1,8 @@
+Discovery Packet v1 — [AI Data Analyst]
+Student: [Barbora Ciffrova]
+Date: February 23, 2026
+Client: EuroHealth Insurance AG
+
 ## 1) Stakeholder analysis (from data analyst role)
 
 Hans Muller (CIO, sponsor) wants cost reduction, platform unification, and compliance readiness by Aug 2026.
