@@ -1,31 +1,27 @@
 ## 1) Stakeholder analysis (from data analyst role)
 
-Hans Muller (CIO, sponsor) wants cost reduction, platform unification, and compliance readiness by Aug 2026; risk-averse; on-prem constraint.
-Stefan Weber (CISO, Security governance) needs policy enforcement, auditability, data security.
-Katarina Novak (IT Ops Director) wants practical constraints on deployment, SLAs, interoperability.
-Jan Kovar (Helpdesk Lead) fears replacement; change-management focal point.
+Hans Muller (CIO, sponsor) wants cost reduction, platform unification, and compliance readiness by Aug 2026.
+Stefan Weber (CISO, Security governance) needs policy enforcement, auditability, and data security.
+Katarina Novak (IT Ops Director) wants practical constraints on deployment, SLAs, and interoperability.
+Jan Kovar (Helpdesk Lead) and his colleagues fear replacement.
 Shadow AI/tools owners (HR chatbot, Claims LangChain, Finance PoC) are non-governed pockets that threaten risk/gaps.
 External parties are board, compliance, and EU AI Act timeline.
 
 ## 2) Key findings and implications for your workstream
 
-Finding A: Platform unification is non-negotiable; governance and policy enforcement must be baked in.
+Finding A: AI agents are not unified and do not collaborate together.
 
-Implication: Your scope must include a Policy-as-Code layer (PDP/PEP), audit trails, and a single LLM gateway with controlled adapters.
+Implication: Include a Policy-as-Code layer (PDP/PEP), audit trails, and a single LLM gateway with controlled adapters.
 
-Finding B: On-prem constraint dominates; no cloud levers initially.
+Finding B: No cloud usage.
 
-Implication: Data pipelines, model hosting, and monitoring must be designed for on-prem hardware and air-gapped environments; plan for edge or internal data stores; no reliance on public cloud fallbacks.
+Implication: Design plan for internal data stores; no reliance on public cloud fallbacks.
 
-Finding C: KB quality is a gating risk (30% outdated; ownership gap).
+Finding C: Knowledge base is outdated and no one is responsible for keeping it up to date.
 
-Implication: Your workstream must include an aggressive knowledge-management plan, including a KB refresh sprint, lifecycle ownership, and automatic drift monitoring.
+Implication: Include knowledge-management plan, knowledge-base refresh, lifecycle ownership, and automatic drift monitoring.
 
-Finding D: Change-management risk with Jan; adoption hinges on perceived job security and clarity of value.
-
-Implication: Include alignment activities, training plans, and a staged rollout (L2 constrained autonomy) to demonstrate tangible improvements before wholesale replacement narratives.
-
-Finding E: Shadow AI exists and is ungoverned; regulatory risk if left untracked.
+Finding D: Shadow AI exists and is ungoverned; regulatory risk if left untracked.
 
 Implication: Establish discovery and policy enforcement for shadow tools; plan for risk scoring, inventory, and remediation pathways.
 
